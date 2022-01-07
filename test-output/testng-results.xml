@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45157" started-at="2022-01-07T17:21:06 EST" finished-at="2022-01-07T17:21:51 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45157" started-at="2022-01-07T17:21:06 EST" finished-at="2022-01-07T17:21:51 EST">
+      <class name="com.qa.SearchEngine">
+        <test-method status="PASS" signature="BrowserOpen()[pri:0, instance:com.qa.SearchEngine@4524411f]" name="BrowserOpen" is-config="true" duration-ms="9242" started-at="2022-01-07T17:21:06 EST" finished-at="2022-01-07T17:21:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpen -->
+        <test-method status="PASS" signature="SearchKeyword()[pri:0, instance:com.qa.SearchEngine@4524411f]" name="SearchKeyword" duration-ms="3821" started-at="2022-01-07T17:21:15 EST" finished-at="2022-01-07T17:21:19 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchKeyword -->
+        <test-method status="PASS" signature="BrowserOpen()[pri:0, instance:com.qa.SearchEngine@4524411f]" name="BrowserOpen" is-config="true" duration-ms="14710" started-at="2022-01-07T17:21:19 EST" finished-at="2022-01-07T17:21:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpen -->
+        <test-method status="PASS" signature="TotalLinkAttribute()[pri:0, instance:com.qa.SearchEngine@4524411f]" name="TotalLinkAttribute" duration-ms="441" started-at="2022-01-07T17:21:34 EST" finished-at="2022-01-07T17:21:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TotalLinkAttribute -->
+        <test-method status="PASS" signature="BrowserOpen()[pri:0, instance:com.qa.SearchEngine@4524411f]" name="BrowserOpen" is-config="true" duration-ms="16240" started-at="2022-01-07T17:21:34 EST" finished-at="2022-01-07T17:21:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpen -->
+        <test-method status="PASS" signature="TotalLinkText()[pri:0, instance:com.qa.SearchEngine@4524411f]" name="TotalLinkText" duration-ms="619" started-at="2022-01-07T17:21:51 EST" finished-at="2022-01-07T17:21:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TotalLinkText -->
+      </class> <!-- com.qa.SearchEngine -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
